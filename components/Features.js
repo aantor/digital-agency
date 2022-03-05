@@ -57,7 +57,7 @@ export default function Features() {
           Your browser does not support the video tag.
         </video>
         <img
-          src='/play.png'
+          src='/Play.png'
           alt=''
           tw='w-24 h-24 lg:w-32 lg:h-32 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 cursor-pointer'
           onClick={() => setPlay(!play)}
